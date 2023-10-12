@@ -1,0 +1,27 @@
+{
+  "name": "easystyle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "npx tsc",
+    "watch": "npx tsc -w"
+  },
+  "author": "easyextender",
+  "keywords": [
+    "css",
+    "jss",
+    "stylesheet",
+    "style",
+    "cssstyle",
+    "styler"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
